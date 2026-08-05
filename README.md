@@ -51,7 +51,7 @@
 
 ### 📌 Projetos em destaque
 
-- **[Banca do Diego](https://github.com/274-ctrl/banca-de-Choop)** — Sistema de comanda digital (React + Node.js + SQLite) para gestão de vendas, estoque e pedidos em feira de rua.
+- **[Banca de Choop](https://github.com/274-ctrl/banca-de-Choop)** — Sistema de comanda digital (React + Node.js + SQLite) para gestão de vendas, estoque e pedidos em feira de rua.
 - **[Site TF Soluções](https://github.com/274-ctrl/site-tf-solucoes)** — Site institucional com formulário de contato seguro (PHP + PHPMailer + SMTP).
 
 ---
